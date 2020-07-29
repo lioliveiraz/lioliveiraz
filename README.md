@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Format: ![cover]("./artic Code.png")
+Format: ![cover]("./articCode.png")
